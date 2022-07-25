@@ -1,0 +1,11 @@
+{
+    "agent_seed": null,
+    "backend_type": "LightSimBackend_l2rpn_neurips_2020_track1_small",
+    "chronics_max_timestep": "8062",
+    "chronics_path": "C:\\Users\\Kun\\data_grid2op\\l2rpn_neurips_2020_track1_small\\chronics\\Scenario_april_000",
+    "cumulative_reward": 18020.943359375,
+    "env_seed": null,
+    "env_type": "Environment_l2rpn_neurips_2020_track1_small",
+    "grid_path": "C:\\Users\\Kun\\data_grid2op\\l2rpn_neurips_2020_track1_small\\grid.json",
+    "nb_timestep_played": 226
+}
